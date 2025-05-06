@@ -1,0 +1,11 @@
+# Arquivos do PyCharm/IntelliJ
+.idea/
+*.iml
+
+# Arquivos Python
+__pycache__/
+*.pyc
+
+# Sistema
+.DS_Store
+Thumbs.db
