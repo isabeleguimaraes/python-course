@@ -9,7 +9,7 @@ def menu(list):
     for item in list:
         print(f'{c} - {item}')
         c+=1
-    option = readint('Choose an Option')
+    option = readint('Choose an Option: ')
     return option
 
 
